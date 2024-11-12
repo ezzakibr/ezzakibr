@@ -6,7 +6,7 @@
   - [Practicing ETL in Scala & Spark](https://github.com/ezzakibr/nba-data-pipeline)
  
 - <b>Air Quality ETL in Morocco</b>
-  -[Practicing Python & Kafka](https://github.com/ezzakibr/air-quality-etl)
+  - [Practicing Python & Kafka](https://github.com/ezzakibr/air-quality-etl)
 
 
 

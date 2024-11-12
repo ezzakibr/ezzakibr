@@ -1,9 +1,12 @@
 <h1>Hi, I'm Brahim! <br/><a<a href="https://www.linkedin.com/in/ezzakibr/">Data Engineer</a>, </h1>
 
-<h2>👨‍💻 Data Engineer Projects </h2>
+<h2>👨‍💻 Data Engineering Projects </h2>
 
 - <b>NBA Data Pipeline</b>
-  - [Praciting ETL in Scala & Spark](https://github.com/ezzakibr/nba-data-pipeline)
+  - [Practicing ETL in Scala & Spark](https://github.com/ezzakibr/nba-data-pipeline)
+ 
+- <b>Air Quality ETL in Morocco</b>
+  -[Practicing Python & Kafka](https://github.com/ezzakibr/air-quality-etl)
 
 
 

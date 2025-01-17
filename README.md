@@ -7,6 +7,9 @@
  
 - <b>Air Quality ETL in Morocco</b>
   - [Practicing Python & Kafka](https://github.com/ezzakibr/air-quality-etl)
+ 
+- <b>AWS Pipeline orchestrated with Airflow</b>
+  - [Practicing AWS & Airflow](https://github.com/ezzakibr/AWS-retail-pipeline)
 
 
 
